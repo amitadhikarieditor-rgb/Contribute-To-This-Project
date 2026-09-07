@@ -269,5 +269,44 @@
         "text": "freeCodeCamp"
       }
     ]
+  },
+  {
+    "username": "rogelrc",
+    "name": "Rogel Ramírez Cabreja",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/RogelRC",
+        "handle": "GitHub"
+      },
+      {
+        "icon": "fab fa-telegram",
+        "link": "https://t.me/fingerstick0394",
+        "handle": "Telegram"
+      },
+      {
+        "icon": "fab fa-discord",
+        "link": "https://discord.com/users/1136464673479340203",
+        "handle": "Discord"
+      }
+    ],
+    "about": "Computer Sciences Engineer and freelancer building web applications, graduated from the\n    University of Computer Sciences (UCI).",
+    "resources": [
+      {
+        "title": "MDN Web Docs",
+        "link": "https://developer.mozilla.org/",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "GitHub Trending",
+        "link": "https://github.com/trending",
+        "text": "GitHub Trending"
+      },
+      {
+        "title": "Stack Overflow",
+        "link": "https://stackoverflow.com/",
+        "text": "Stack Overflow"
+      }
+    ]
   }
 ]
