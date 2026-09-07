@@ -308,5 +308,39 @@
         "text": "Stack Overflow"
       }
     ]
+  },
+  {
+    "username": "princebad",
+    "name": "Prince Badsiwal",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/PrinceBad",
+        "handle": "GitHub"
+      },
+      {
+        "icon": "fab fa-linkedin",
+        "link": "https://linkedin.com/in/Prince_Badsiwal",
+        "handle": "LinkedIn"
+      }
+    ],
+    "about": "Software engineer specializing in on-device AI, Android runtime optimization,\n    and high-performance full-stack applications.",
+    "resources": [
+      {
+        "title": "MDN Web Docs",
+        "link": "https://developer.mozilla.org/",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "Android Developers",
+        "link": "https://developer.android.com/",
+        "text": "Android Developers"
+      },
+      {
+        "title": "Hugging Face",
+        "link": "https://huggingface.co/",
+        "text": "Hugging Face"
+      }
+    ]
   }
 ]
